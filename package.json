@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Akinator Whatsapp Bot",
+  "main": "index.js",
+  "dependencies": {
+    "aki-api": "^5.2.1",
+    "venom-bot": "^3.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "patek",
+  "license": "MIT"
+}
